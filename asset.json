@@ -1,0 +1,10 @@
+{
+	"name":"Asset Store X",
+	"category":"plugin",
+	"license":"MIT",
+	"godot_version": 3,
+	"version": 1,
+	"videos": [],
+	"commit": "latest"
+	
+}
